@@ -1,0 +1,22 @@
+{
+  "name": "selenium-isotope",
+  "version": "1.0.0",
+  "description": "selenium isotope opinionated framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirwin517/selenium-isotope.git"
+  },
+  "author": "dirwin517",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dirwin517/selenium-isotope/issues"
+  },
+  "homepage": "https://github.com/dirwin517/selenium-isotope#readme",
+  "dependencies": {
+    "html-parser": "^0.8.0"
+  }
+}
